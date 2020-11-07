@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Only fools deal in absolutes
 Use the left arrow to go back!
